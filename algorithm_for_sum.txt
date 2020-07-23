@@ -1,0 +1,12 @@
+Sum Of N Natural numbers
+
+Step:1 > Get the number from user 
+            n=5
+Step:2 > Hold the number in a variable 
+            n=5
+Step:3 > Put a variable for sum.
+            sum=0
+Step:4 > loop the user input number until it's equal to i.
+            while(n>0)
+            sum=sum+1
+Step:5 > on every iteration store the value of i in result  (sum + n) then return.

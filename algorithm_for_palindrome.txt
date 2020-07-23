@@ -1,0 +1,14 @@
+Palindrome number algorithm
+
+Step:1 > Get the number from user 
+            n=101
+Step:2 > Hold the number in temporary variable 
+            temp=n 
+Step:3 > Reverse the number (number % 10)
+            dig=n%10
+            rev=rev*10+dig
+            n=n//10
+Step:4 > Compare the temporary number with reversed number
+            if(temp==res)
+Step:5 > If both numbers are same, print palindrome number else will print not palindrome
+            print("it is a palindrome")
